@@ -1,5 +1,0 @@
-efforts/
-.env*
-*.cred
-*.jsonl
-secrets*
